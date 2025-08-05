@@ -56,10 +56,10 @@ This project builds on Part 1 by introducing time-series analysis and deeper ins
 
 | Chart | Description |
 |-------|-------------|
-| ![RegionARC](screenshots/RegionARC.png) | National ARC by region |
-| ![ARCComparison](screenshots/ARCComparison.png) | Histogram comparing ARC rural vs urban |
-| ![PivotByRegion](screenshots/PivotByRegion.png) | Regional ARC pivot |
 | ![FullAccess](screenshots/FullAccess.png) | ARC classification by country |
+| ![PivotByRegion](screenshots/PivotByRegion.png) | Regional ARC pivot |
+| ![ARCComparison](screenshots/ARCComparison.png) | Histogram comparing ARC rural vs urban |
+| ![RegionARC](screenshots/RegionARC.png) | National ARC by region |
 
 >  All visuals included in the Screenshots folder and support the final findings.
 
